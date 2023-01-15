@@ -3,6 +3,8 @@
 Video explicativo do desafio e não listado para visualização youtube
 link direto:
 
+    https://www.youtube.com/watch?v=PX3aZe29tTo
+
 Clonar:
     
    $ git clone https://github.com/tiagosuleiman/testag12sb2.git
