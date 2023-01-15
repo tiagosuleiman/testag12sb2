@@ -37,7 +37,7 @@ Etapas:
     backend : http://localhost:8080
     Database H2: http://localhost:8080/h2
     WS Consulta  todos agentes: http://localhost:8080/agentes
-    WS Agentes por região: http://localhost:8080/agentes/SE   (Options: SE, N, NE, S)
+    WS Agentes por região: http://localhost:8080/agentes/SE   (Options: SE, S, NE, N)
      
 Desafio
     
