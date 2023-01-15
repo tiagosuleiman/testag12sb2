@@ -31,7 +31,7 @@ Etapas:
     $ mvn package (required install maven)
     $ java -jar [rootProject]/backend/target/spring-boot-upload-files-0.0.1-SNAPSHOT.jar
 
-  3 - URL:
+  3 - URL's:
     
     frontend: http://localhost:4200
     backend : http://localhost:8080
