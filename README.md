@@ -1,8 +1,5 @@
 # testag12sb2
 
-1 - Run Jar Spring Boot or IDE
-2 - cd /fronted && npm install && npm start
-
 Video explicativo do desafio e não listado para visualização youtube
 link direto:
 
@@ -43,10 +40,13 @@ Etapas:
     WS Agentes por região: http://localhost:8080/agentes/SE   (Options: SE, N, NE, S)
      
 Desafio
+    
     Criar um sistema Web composto de um Front-end SPA (Single Page Application)
     Angular e um Back-end Java Spring Boot para envio de arquivos XML e posterior
     processamento deles.
+    
     Requisitos
+    
      Criar uma interface Web para upload de um ou mais arquivos com extensão .xml.
      Para o desenvolvimento da interface, deve ser utilizado o tema Indigo do Angular
     Material.
@@ -76,20 +76,21 @@ Desafio
 
 Instruções
 
-1. Criar o sistema utilizando as seguintes tecnologias base:
- Front-end:
-o Angular 12+
-o Angular Material 12+
-o Typescript 4+
-o RxJS 6+
-o NodeJS 14+
- Back-end:
-o Spring Boot 2
-o Maven 3
-o JPA
+    1. Criar o sistema utilizando as seguintes tecnologias base:
 
-o Hibernate
+     Front-end:
+    o Angular 12+
+    o Angular Material 12+
+    o Typescript 4+
+    o RxJS 6+
+    o NodeJS 14+
+     Back-end:
+    o Spring Boot 2
+    o Maven 3
+    o JPA
 
- Banco de Dados:
+    o Hibernate
+
+     Banco de Dados:
 
 2. Disponibilizá-lo em um repositório Git público (exemplo: GitHub, Bitbucket).
