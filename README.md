@@ -10,12 +10,12 @@ Clonar:
 Diretorios:
 suleiman@tiago:~/dev/code/java/testag12sb2$ ls -a
    
-   :: files  
-   :: .git  
-   :: .gitignore
-   :: README.md  
-   :: backend 
-   :: frontend
+       :: files
+       :: .git 
+       :: .gitignore
+       :: README.md
+       :: backend
+       :: frontend
 
 Etapas: 
 
