@@ -24,22 +24,22 @@ Etapas:
 
   1 - Start Frontend
 
-  $ cd [rootProject]/frontend
-  $ npm install
-  $ npm start
+  :: $ cd [rootProject]/frontend
+  :: $ npm install
+  :: $ npm start
   
   2 - Start Backend
   
-  $ cd [rootProject]/backend
-  $ mvn package (required install maven)
-  $ java -jar [rootProject]/backend/target/spring-boot-upload-files-0.0.1-SNAPSHOT.jar
+  :: $ cd [rootProject]/backend
+  :: $ mvn package (required install maven)
+  :: $ java -jar [rootProject]/backend/target/spring-boot-upload-files-0.0.1-SNAPSHOT.jar
 
 URL:
-    frontend: http://localhost:4200
-    backend : http://localhost:8080
-    Database H2: http://localhost:8080/h2
-    WS Consulta  todos agentes: http://localhost:8080/agentes
-    WS Agentes por região: http://localhost:8080/agentes/SE   (Options: SE, N, NE, S)
+    :: frontend: http://localhost:4200
+    :: backend : http://localhost:8080
+    :: Database H2: http://localhost:8080/h2
+    :: WS Consulta  todos agentes: http://localhost:8080/agentes
+    :: WS Agentes por região: http://localhost:8080/agentes/SE   (Options: SE, N, NE, S)
      
 Desafio
 Criar um sistema Web composto de um Front-end SPA (Single Page Application)
