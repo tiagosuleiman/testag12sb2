@@ -93,4 +93,4 @@ Instruções
 
      Banco de Dados:
 
-2. Disponibilizá-lo em um repositório Git público (exemplo: GitHub, Bitbucket).
+Disponibilizá-lo em um repositório Git público (exemplo: GitHub, Bitbucket).
